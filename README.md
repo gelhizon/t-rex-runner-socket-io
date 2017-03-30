@@ -3,7 +3,7 @@ Play with friends on t-rex-runner game from Chrome Offline. Built using Socket.I
 
 No copyright infringement intended
 
-How to use: https://youtu.be/5DD31ZPGNv8
+Demo: https://youtu.be/5DD31ZPGNv8
 
 ### Server information:
 Sends update every 1000 / 30 of a milliseconds.
